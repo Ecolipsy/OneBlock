@@ -1,0 +1,14 @@
+name: OneBlock
+version: '${project.version}'
+main: tech.ecolipsy.oneblock.OneBlock
+api-version: 1.17
+prefix: OneBlock
+authors: [ Ecolipsy ]
+description: Open Source plugin for Minecraft series OneBlock.
+website: https://ecolipsy.tech
+commands:
+  oneblock:
+    description: Core command for all actions in OneBlock
+    aliases:
+      - ob
+      - oblock
